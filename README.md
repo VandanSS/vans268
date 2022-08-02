@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vans268
-- 👀 I’m interested in Automation testing, web/mobile application development.
-- 🌱 I’m currently learning Advanced Selenium Testing with TestNg
+- 👀 I’m interested in Automation Testing, Web/Mobile Application Development.
+- 🌱 I’m currently learning API Testing
 - 📫 Contact me at vandan.sawant@outlook.com
 
 <!---
